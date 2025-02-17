@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=anidubonline&icon=4&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/USDT/TRC20: TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](USDT/TRC20: TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
