@@ -12,8 +12,13 @@
 [![](https://visitcount.itsvg.in/api?id=anidubonline&icon=4&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-![Static Badge](https://img.shields.io/badge/TRC20-1E2438?style=for-the-badge&logo=tether&logoColor=%2350AF95&link=TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4)
-(USDT/TRC20: TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4) 
+![Tether](https://img.shields.io/badge/TRC20-1E2438?style=for-the-badge&logo=tether&logoColor=%2350AF95&link=https%3A%2F%2Fgithub.com%2Fanidubonline)
+**```TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4```**
+
+**<button onclick="navigator.clipboard.writeText('TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4');">
+  TWxoaEudn7fBtE8UtbhtngNx9TcXu4Exx4
+</button>**
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
